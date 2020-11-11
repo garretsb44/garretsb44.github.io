@@ -6,6 +6,7 @@ import Search from "./pages/Contact";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
+import "./app.css"
 
 function App() {
   return (
